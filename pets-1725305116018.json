@@ -1,0 +1,44 @@
+[
+  {
+    "color": "akita",
+    "type": "dog",
+    "size": "nano",
+    "name": "Holly"
+  },
+  {
+    "color": "red",
+    "type": "fox",
+    "size": "nano",
+    "name": "Crispin"
+  },
+  {
+    "color": "white",
+    "type": "fox",
+    "size": "nano",
+    "name": "Maroon"
+  },
+  {
+    "color": "akita",
+    "type": "dog",
+    "size": "nano",
+    "name": "Bingo"
+  },
+  {
+    "color": "white",
+    "type": "fox",
+    "size": "nano",
+    "name": "Rose"
+  },
+  {
+    "color": "gray",
+    "type": "rat",
+    "size": "nano",
+    "name": "Mica"
+  },
+  {
+    "color": "gray",
+    "type": "totoro",
+    "size": "nano",
+    "name": "Lucy"
+  }
+]
